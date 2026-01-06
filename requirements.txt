@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+statsmodels
+boto3
+reportlab
+fastapi
+uvicorn
