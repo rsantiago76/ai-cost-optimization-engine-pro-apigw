@@ -306,6 +306,8 @@ Zero AWS credentials in the browser
 Security Design Principles
 Least Privilege by Default
 
+
+
 The Lambda IAM role allows only:
 
 ce:GetCostAndUsage (read-only billing access)
