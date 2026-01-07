@@ -369,7 +369,7 @@ Fallback model for limited historical data
 
 Produces daily and 30-day spend forecasts
 
-🚨 Waste & Anomaly Detection
+# 🚨 Waste & Anomaly Detection
 
 Isolation Forest for spend spike detection
 
@@ -377,7 +377,7 @@ Identifies regressions after deployments
 
 Surfaces anomalies for investigation
 
-📈 Savings Simulation
+# 📈 Savings Simulation
 
 Rule-based Savings Plans / RI estimator
 
@@ -385,7 +385,7 @@ Explainable assumptions (FinOps-friendly)
 
 Produces estimated monthly savings ranges
 
-🧾 Executive Reporting
+# 🧾 Executive Reporting
 
 Auto-generated PDF executive report
 
@@ -393,16 +393,13 @@ CFO-ready and audit-friendly
 
 Includes forecasts, risks, and recommendations
 
-📊 Dashboard (React + TypeScript)
+# 📊 Dashboard (React + TypeScript)
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d969ef83-c9af-4375-a5af-c32cd7c9a983" />
+- Strict TypeScript
 
+- API-driven state
 
-Strict TypeScript
-
-API-driven state
-
-Recharts visualizations
+- Recharts visualizations
 
 Production-ready structure
 
