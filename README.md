@@ -236,6 +236,11 @@ DevSecOps Automation
 
 🏗️ System Architecture (End-to-End)
 Architecture Flow
+
+<img width="1536" height="1024" alt="end-to-end-architecture" src="https://github.com/user-attachments/assets/f55a40b8-ed96-4c57-b1f8-e967389ef77a" />
+
+
+
 Amazon EventBridge (Scheduled)
    ↓
 AWS Lambda – Cost Analysis Engine (Python)
