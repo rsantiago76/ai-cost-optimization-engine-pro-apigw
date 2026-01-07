@@ -220,7 +220,7 @@ terraform apply
 
 # 🎯 Why This Project Stands Out
 
-This A production-style cloud cost optimization platform built on AWS that ingests billing data, forecasts spend using time-series machine learning, detects anomalies and waste, simulates Savings Plan / Reserved Instance savings, and exposes results via a secure API Gateway endpoint to a React + TypeScript dashboard.
+This is a production-style cloud cost optimization platform built on AWS that ingests billing data, forecasts spend using time-series machine learning, detects anomalies and waste, simulates Savings Plan / Reserved Instance savings, and exposes results via a secure API Gateway endpoint to a React + TypeScript dashboard.
 
 This project demonstrates rare crossover expertise across:
 
