@@ -302,7 +302,7 @@ Visualizes forecasts, anomalies, and savings
 
 Zero AWS credentials in the browser
 
-🔐 Security & IAM Boundaries
+# 🔐 Security & IAM Boundaries
 Security Design Principles
 Least Privilege by Default
 
@@ -360,8 +360,8 @@ Presentation
 
 This design aligns well with enterprise, government, and regulated cloud environments.
 
-🧠 Key Capabilities
-🤖 AI / ML Forecasting
+# 🧠 Key Capabilities
+# 🤖 AI / ML Forecasting
 
 Time-series forecasting using ARIMA
 
