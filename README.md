@@ -310,6 +310,9 @@ Least Privilege by Default
 
 The Lambda IAM role allows only:
 
+<img width="1620" height="904" alt="image" src="https://github.com/user-attachments/assets/d2e748fe-7512-4c47-a529-86fd3a374800" />
+
+
 ce:GetCostAndUsage (read-only billing access)
 
 S3 access limited to a single bucket + prefix
