@@ -24,6 +24,8 @@ Architecture Flow
 <img width="1999" height="1235" alt="image" src="https://github.com/user-attachments/assets/88ade830-cc34-48aa-adca-d57ef8d34a1c" />
 
 
+<img width="1457" height="654" alt="image" src="https://github.com/user-attachments/assets/5c14885b-6154-4277-a7ba-2d5401283aaa" />
+
 
 
 Amazon EventBridge (Scheduled)
