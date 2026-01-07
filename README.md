@@ -466,6 +466,6 @@ This is the type of system used by:
 
 # 🧾 Summary
 
-Designed and implemented a serverless AI-driven cost optimization platform using AWS Lambda, EventBridge, API Gateway, and S3, featuring ARIMA-based spend forecasting, anomaly detection, Savings Plan/Reserved Instance simulations, least-privilege IAM controls, and a React/TypeScript dashboard consuming a live API.
+I have designed and implemented a serverless AI-driven cost optimization platform using AWS Lambda, EventBridge, API Gateway, and S3, featuring ARIMA-based spend forecasting, anomaly detection, Savings Plan/Reserved Instance simulations, least-privilege IAM controls, and a React/TypeScript dashboard consuming a live API.
 
 
