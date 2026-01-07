@@ -395,6 +395,9 @@ Includes forecasts, risks, and recommendations
 
 📊 Dashboard (React + TypeScript)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d969ef83-c9af-4375-a5af-c32cd7c9a983" />
+
+
 Strict TypeScript
 
 API-driven state
